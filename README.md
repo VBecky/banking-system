@@ -29,8 +29,9 @@ This project simulates real banking operations with a user-friendly graphical in
 
 ## 📁 Project Structure
 
+```bash
 banking_system.py   # Main application file banking_system.db   # Database file (auto-created)
-
+```
 
 ---
 
@@ -39,13 +40,13 @@ banking_system.py   # Main application file banking_system.db   # Database file 
 1. Install Python (3.8+ recommended)
 
 2. Run the application:
-
+```bash
 python banking_system.py
-
+```
 or
-
+```bash
 python3 banking_system.py
-
+```
 ---
 
 ## 🧠 How It Works
