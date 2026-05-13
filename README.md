@@ -53,7 +53,8 @@ python3 banking_system.py
 ```
 ---
 
-![Main Window](Screenshot_20260512_204541_Pyramide.jpg)
+![Main Window](Screenshot_20260512_204541_Pyramide.jpg)  
+![Account Creation](Screenshot_20260512_204808_Pydroid_3.jpg)
 
 ## 🧠 How It Works
 
