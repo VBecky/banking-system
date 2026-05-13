@@ -5,6 +5,8 @@ This project simulates real banking operations with a user-friendly graphical in
 
 ---
 
+
+
 ## 🚀 Features
 
 - 🧾 Create new bank accounts  
@@ -50,6 +52,8 @@ or
 python3 banking_system.py
 ```
 ---
+
+![Main Window](Screenshot_20260512_204541_Pyramide.jpg)
 
 ## 🧠 How It Works
 
