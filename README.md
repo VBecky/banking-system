@@ -30,7 +30,9 @@ This project simulates real banking operations with a user-friendly graphical in
 ## 📁 Project Structure
 
 ```bash
-banking_system.py   # Main application file banking_system.db   # Database file (auto-created)
+banking_system.py   # Main application file
+
+banking_system.db   # Database file (auto-created)
 ```
 
 ---
